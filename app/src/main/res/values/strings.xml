@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Super Stars</string>
+    <string name="muller">Muller</string>
+    <string name="neuer">Neuer</string>
+    <string name="ozil">Ozil</string>
+    <string name="schweinsteiger">Schweinsteiger</string>
+    <string name="reus">Reus</string>
+    <string name="goetze">Goetze</string>
+
+    <string name="question_muller">Muller is my favorite football player.</string>
+    <string name="question_neuer">Neuer is the best goalkeeper in the world.</string>
+    <string name="question_ozil">Ozil wears 10 in the national team.</string>
+    <string name="question_schweinsteiger">Schweinsteiger was the former captain.</string>
+    <string name="question_reus">Reus is in the Dortmund club.</string>
+    <string name="question_goetze">Goetze is the hero of the 2014 World Cup.</string>
+
+    <string name="muller_true">true</string>
+</resources>
